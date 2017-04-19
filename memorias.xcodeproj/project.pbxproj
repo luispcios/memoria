@@ -51,7 +51,6 @@
 		5496364A1EA7234900C3137B /* memoriasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = memoriasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5496364E1EA7234900C3137B /* memoriasUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = memoriasUITests.m; sourceTree = "<group>"; };
 		549636501EA7234900C3137B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5496365C1EA72A6C00C3137B /* numeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = numeros.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +110,6 @@
 				549636371EA7234900C3137B /* LaunchScreen.storyboard */,
 				5496363A1EA7234900C3137B /* Info.plist */,
 				549636291EA7234900C3137B /* Supporting Files */,
-				5496365C1EA72A6C00C3137B /* numeros.playground */,
 			);
 			path = memorias;
 			sourceTree = "<group>";
